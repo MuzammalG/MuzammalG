@@ -1,5 +1,7 @@
 {
-    "latest_version": "2.25.0.0",
-    "download_url": "https://github.com/username/repository/releases/download/v2.25.0.0/update.apk",
-    "release_notes": "Includes bug fixes and new features."
+	"v1": 9,
+	"v2": 0,
+	"v3": "\n MHSC\nDownload Snaps, Stories, Discover, Spotlight\nUnlimited Snap / Story Duration\nSecret Save to Camera Roll\nSecret Screenshot Without Knowing Sender\nSecret Screen Record Without Knowing Sender\nHide Typing... indicator in Chat (Don't notify sender that you're typing)\nHide Online in Chat\nHide View Snap\nHide View Story\nHide Read Messages\nSnap Video Limit Extended to Unlimited (Removes the Video Limit restrictions when sending videos from the gallery in Chat)\nDisable Camera - (Prevents from Accidental Touch and Improves Performance and Startup Time)",
+	"website": "https://apksmh.blogspot.com/2024/08/mh-snapchat-v197-download-now.html",
+	"cancel": true
 }
