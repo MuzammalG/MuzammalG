@@ -1,5 +1,5 @@
 {
-    "version": "1.0",
-    "update_url": "https://mhwhatsapps.blogspot.com",
-    "message": "Hello\nDownload Snaps, Stories, Discover, Spotlight\nUnlimited Snap / Story Duration\nSecret Save to Camera Roll\nSecret Screenshot Without Knowing Sender\nSecret Screen Record Without Knowing Sender\nHide Typing... indicator in Chat (Don't notify sender that you're typing)\nHide Online in Chat\nHide View Snap\nHide View Story\nHide Read Messages\nSnap Video Limit Extended to Unlimited (Removes the Video Limit restrictions when sending videos from the gallery in Chat)\nDisable Camera - (Prevents from Accidental Touch and Improves Performance and Startup Time)"
+    "version": "2.0",
+    "update_url": "https://apksmh.blogspot.com/",
+    "message": "Added: Refresh and desktop button for Extender Routers\nFixed: Mercusys Router Browser unsupported error\nFixed: Desktop Mode on Dlink and Mercusys Router\nFixed: Tenda Router Name and Password not changing\nImproved: Application Code\nMuzammal Hussain"
 }
