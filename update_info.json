@@ -1,5 +1,5 @@
 {
-    "version": "2.0",
+    "version": "3.0",
     "update_url": "https://apksmh.blogspot.com/",
     "message": "Added: Refresh and desktop button for Extender Routers\nFixed: Mercusys Router Browser unsupported error\nFixed: Desktop Mode on Dlink and Mercusys Router\nFixed: Tenda Router Name and Password not changing\nImproved: Application Code\nMuzammal Hussain"
 }
