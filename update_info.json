@@ -1,10 +1,5 @@
 {
   "latest_version": 3,
   "download_url": "https://example.com/MyWiFi_v3.apk",
-  "changelog": "
-  \n𝘼𝙙𝙙𝙚𝙙: OneSignal Notification
-  \n𝙍𝙚𝙢𝙤𝙫𝙚𝙙: Unnecessary permissions
-  \n𝙁𝙞𝙭𝙚𝙙: Application size reduced
-  \n𝙁𝙞𝙭𝙚𝙙: Minor Bug
-  \n𝙄𝙢𝙥𝙧𝙤𝙫𝙚𝙙: performance
+  "changelog": "𝘼𝙙𝙙𝙚𝙙: OneSignal Notification\n𝙍𝙚𝙢𝙤𝙫𝙚𝙙: Unnecessary permissions\n𝙁𝙞𝙭𝙚𝙙: Application size reduced\n𝙁𝙞𝙭𝙚𝙙: Minor Bug\n𝙄𝙢𝙥𝙧𝙤𝙫𝙚𝙙: performance
 }
